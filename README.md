@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhargav Solanki</h1>
+<h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A Full stack Dev learner</h3>
 
 - 🌱 I’m currently learning **NodeJS, Udemy Full stack bootcamp**
