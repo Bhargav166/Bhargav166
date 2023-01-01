@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
-<h3 align="center">A Full stack Dev learner</h3>
-<img align="right" alt="Programming" width="400" src="https://tenor.com/en-GB/view/bahroo-hacker-panda-hacking-cool-gif-15741061">
+<h3 align="center">A Full Stack Dev learner</h3>
+<img align="right" alt="Programming" width="250" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
 - 🌱 I’m currently learning **NodeJS, Udemy Full stack bootcamp**
 
